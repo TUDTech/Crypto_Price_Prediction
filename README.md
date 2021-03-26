@@ -214,31 +214,3 @@ ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 ![Screen Shot 2021-03-21 at 21 56 54](https://user-images.githubusercontent.com/81108192/111922186-5b807100-8a90-11eb-8504-a3fc3ae35052.png)
 
 BTC WALLET: 3N928MmFq51kbf6fE3fxJbtggBhcjMAhSQ
-
-
-
-
-
-<div align="center">
-	<img src="result/bitcoin2015to2017_close_LSTM_1_tanh_leaky_result.png" width="80%" />
-</div>
-
-_LSTM with tanh and Leaky ReLu as activation function._
-
-<div align="center">
-	<img src="result/bitcoin2015to2017_close_CNN_3_leaky_result.png" width="80%" />
-</div>
-
-_3-layered CNN with Leaky ReLu as activation function._
-
-<div align="center">
-	<img src="result/bitcoin2015to2017_close_rw.png" width="80%" />
-</div>
-
-_Baseline_
-
-<div align="center">
-	<img src="result/bitcoin2015to2017_close_lr.png" width="80%" />
-</div>
-
-_Linear Regression_
